@@ -1,6 +1,5 @@
-# First & last name: Tony Davis 
-# Fun fact: I lived in Okinawa Japan
-
+# First and last name: Tony Davis
+# Fun fact: I lived in Okinawa, Japan
 print("TTTTT DDDD ")
 print("  T  ", "D   D")
 print("  T  ", "D   D")
@@ -8,3 +7,25 @@ print("  T  ", "D   D")
 print("  T  ", "D   D")
 print("  T  ", "D   D")
 print("  T  ", "DDDD")
+print("IIIII N       N")
+print("  I   N N     N")
+print("  I   N  N    N")
+print("  I   N   N   N")
+print("  I   N    N  N")
+print("  I   N     N N")
+print("IIIII N       N")
+print("TTTTT H   H EEEEE")
+print("  T   H   H E    ")
+print("  T   H   H E    ")
+print("  T   HHHHH EEEEE")
+print("  T   H   H E    ")
+print("  T   H   H E    ")
+print("  T   H   H EEEEE")
+print("       []        ")
+print("      [][]       ")
+print("     [][][]      ")
+print("    [][][][]     ")
+print("   | []  [] |    ")
+print("   | []  [] |    ")
+print("   |___[]___|    ")
+
